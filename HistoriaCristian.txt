@@ -13,6 +13,10 @@ Hola como estas?
 
 
 
-Muy bien Cristian, eres un excelente aprendiz de programación
+Muy bien Cristian, eres un excelente aprendiz de programación.
+
+Recuerda entender muy bien hacer pull y push 
+
+gracias. 
 
 
